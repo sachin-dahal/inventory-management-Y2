@@ -1,0 +1,12 @@
+1,Dell Vostros 3049,Laptop,Better,QWFH2354F,60000,One Year
+2,Mac Book Air,Laptop,Best,GJF4665FG,120000,Three Year
+3,HP Probook 640,Laptop,Good,MIMUY23D,70000,No Warranty
+4,LG,TV,Good,THFBVJ76,50000,One Year
+5,Panasonic,TV,Best,PHIGD6,90000,Three Year
+6,Samsung,TV,Best,NIUU6435,100000,Four Year
+7,Usha,Fan,Good,ASDFG576,5000,One Year
+8,Bajaj,Fan,Good,UYNGYMI32,10000,No Warranty
+9,Cooling FX,AC,Better,CGOD76435,30000,Two Year
+10,Super Cool,AC,Best,RTN4545,50000,Three Year
+11,Redmi 10,Mobile,Better,GFN6K87S,19000,One Year
+12,Iphone 12 max,Mobile,Best,FDFYTM8542,150000,Four Year
